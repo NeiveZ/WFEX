@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # WFEX - Web Fuzzer & Enumerator eXtended
+
 # Author: NeiveZ | github.com/NeiveZ/WFEX
 
 set -euo pipefail
