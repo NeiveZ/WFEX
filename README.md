@@ -1,5 +1,5 @@
 # WFEX
-
+ 
 > Web Fuzzer & Enumerator eXtended — directory and file fuzzer for pentest and bug bounty, written in Bash.
 
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
